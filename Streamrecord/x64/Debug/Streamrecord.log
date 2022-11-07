@@ -1,0 +1,6 @@
+﻿  Database.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(72,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(72,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(98,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  Streamrecord.vcxproj -> P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\x64\Debug\Streamrecord.exe

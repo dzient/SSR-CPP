@@ -1,0 +1,149 @@
+﻿  pch.cpp
+  ActivationDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  CDatabaseSettingsDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  CRecordSession.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Database.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\Database.cpp(325,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\Database.cpp(326,135): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\Database.cpp(412,125): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\Database.cpp(413,134): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\Database.cpp(516,14): warning C4101: 'param_ptr': unreferenced local variable
+  DatabaseSettingsDlg.cpp
+  ircbotmfc.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(58,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(71,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(127,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(129,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(134,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(94,21): warning C4101: 'hints': unreferenced local variable
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(96,10): warning C4101: 'wsaData': unreferenced local variable
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(95,6): warning C4101: 'iResult': unreferenced local variable
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(94,29): warning C4101: 'servinfo': unreferenced local variable
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(97,6): warning C4101: 'res': unreferenced local variable
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(155,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(183,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(191,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(207,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(218,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(223,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\ircbotmfc.cpp(224,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  IRCChatDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  IRCSettingsDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  loadpref.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.cpp(344,16): warning C4018: '<': signed/unsigned mismatch
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.cpp(345,25): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  Logger.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  MountpointDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\MountpointDlg.cpp(687,2): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  Parse.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  parseserver.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\parseserver.cpp(296,19): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  RecordMountpointDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  ScheduleDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  StopDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  StreamInstance.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\StreamInstance.cpp(1444,15): warning C4267: '+=': conversion from 'size_t' to 'long', possible loss of data
+  Streamrecord.cpp
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\Streamrecord.cpp(79,16): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+  StreamrecordDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\StreamrecordDlg.cpp(263,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\StreamrecordDlg.cpp(890,60): warning C4101: 'stream_URL': unreferenced local variable
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\StreamrecordDlg.cpp(890,41): warning C4101: 'output_file': unreferenced local variable
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\StreamrecordDlg.cpp(1603,7): warning C4101: 'ms': unreferenced local variable
+  Compiling...
+  systray.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  ViewScheduleDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(70,48): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,54): warning C4244: '=': conversion from 'DWORD' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(71,36): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\Streamrecord\loadpref.h(94,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 715 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Streamrecord.vcxproj -> P:\certifications\truecoders\streamrecord_june2022b\Streamrecord\x64\Release\Streamrecord.exe
